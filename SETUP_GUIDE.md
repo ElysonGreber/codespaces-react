@@ -1,7 +1,5 @@
 # 🚀 Guia de Configuração Completo - TokenPo
 
-Este guia fornece instruções passo a passo para configurar e executar o TokenPo, desde a configuração do ambiente até o deploy em produção.
-
 ## 📋 Pré-requisitos
 
 ### 1. Ambiente de Desenvolvimento
