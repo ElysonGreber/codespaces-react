@@ -1,7 +1,7 @@
 {
   "name": "tokenpo-game",
   "private": false,
-  "homepage": "https://elysongreber.github.io/codespaces-react/",
+  "homepage": "https://elysongreber.github.io/codespaces-react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
