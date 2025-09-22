@@ -6,7 +6,7 @@ import path from 'path'
 // https://vite.dev/config/
 export default defineConfig({
   server: {
-    allowedHosts: ['devserver-preview--tokepo.netlify.app'],}
+    allowedHosts: ['devserver-preview--tokepo.netlify.app'],},
   plugins: [react(),tailwindcss()],
   resolve: {
     alias: {
